@@ -1,0 +1,9 @@
+namePrefix: team-foo-
+commonLabels:
+  app: mynginx
+  org: example.com
+  team: foo
+commonAnnotations:
+  note: This is a test annotation
+resources:
+  - resources/*.yaml
